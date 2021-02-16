@@ -1,0 +1,10 @@
+{
+  "title": "Demo Nuxt Content Vercel",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "ennoucas",
+  "twitter": "@nuxt_js"
+}
